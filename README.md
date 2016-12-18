@@ -1,5 +1,5 @@
 # quartz-ignite
-Quartz Cluster use apache ignite as job store.
+Quartz Cluster use Apache Ignite as distributed Job Store.
 
 
 Why quartz-ignite?
